@@ -16,10 +16,5 @@ if 'devDependencies' in data:
         if key.startswith('nodecg-io-'):
             data['devDependencies'][key] = f'https://raw.githubusercontent.com/noeppi-noeppi/nodecg-io-tarballs/master/{key}.tar.gz'
 
-if 'nodecg' in data and 'bundleDependencies' in data['nodecg']:
-    for key in data['nodecg']['bundleDependencies']:
-        if key.startswith('nodecg-io-'):
-            data['nodecg']['bundleDependencies'][key] = f'https://raw.githubusercontent.com/noeppi-noeppi/nodecg-io-tarballs/master/{key}.tar.gz'
-
 with open(sys.argv[1], mode='w') as file:
     file.write(json.dumps(data))
