@@ -1,0 +1,8 @@
+ Current status 
+----------------
+
+5f018bf   5f018bf354b6f75466a16c1c0760f5b95297e834
+Fri, 17 Jul 2020 16:39:39 +0200 by Daniel
+
+Update twitch client, stop it and add more logging to make client stopping clearer
+
