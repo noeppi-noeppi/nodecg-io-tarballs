@@ -1,8 +1,9 @@
  Current status 
 ----------------
 
-5f018bf   5f018bf354b6f75466a16c1c0760f5b95297e834
-Fri, 17 Jul 2020 16:39:39 +0200 by Daniel
+aa7bb29   aa7bb29c8639f4ce7dd51fe3510a56f311bd0324
+Tue, 21 Jul 2020 18:00:01 +0200 by Tim
 
-Update twitch client, stop it and add more logging to make client stopping clearer
-
+Update Links (#72)
+* How to contribute link
+* Services  shield Update
