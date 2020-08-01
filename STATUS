@@ -1,9 +1,8 @@
  Current status 
 ----------------
 
-aa7bb29   aa7bb29c8639f4ce7dd51fe3510a56f311bd0324
-Tue, 21 Jul 2020 18:00:01 +0200 by Tim
+a36d6aa   a36d6aaeaf75bd1a1d6e541157b3a9f09c924b1b
+Tue, 28 Jul 2020 19:14:16 +0200 by Daniel Huber
 
-Update Links (#72)
-* How to contribute link
-* Services  shield Update
+Merge pull request #76 from codeoverflow-org/feature/14-ci
+Add CI
