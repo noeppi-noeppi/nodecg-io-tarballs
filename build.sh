@@ -9,6 +9,9 @@ git show -s --format=' Current status %n----------------%n%n%h   %H%n%cD by %an%
 echo -e "\033[0;35m\033[1mCall \`npm install\`\033[0m"
 npm install
 
+echo -e "\033[0;35m\033[1mCall \`npm run bootstrap\`\033[0m"
+npm run bootstrap
+
 echo -e "\033[0;35m\033[1mCall \`npm run build\`\033[0m"
 npm run build
 

@@ -1,8 +1,34 @@
  Current status 
 ----------------
 
-a36d6aa   a36d6aaeaf75bd1a1d6e541157b3a9f09c924b1b
-Tue, 28 Jul 2020 19:14:16 +0200 by Daniel Huber
+51bd734   51bd734b1fdbbbd29d80b6676235bc1bb9de7bad
+Tue, 22 Sep 2020 19:42:47 +0200 by Stefan Schmelz
 
-Merge pull request #76 from codeoverflow-org/feature/14-ci
-Add CI
+Bug/midi device name fix (#117)
+* improved midi devices
+
+* fixed patterns becoming ambiguous wiothout config change
+
+* fixed most linker problems
+
+* Update nodecg-io-midi-input/extension/index.ts
+
+Co-authored-by: Daniel Huber <daniel.hub@outlook.de>
+
+* Update nodecg-io-midi-input/extension/index.ts
+
+Okay that capitalisation sailöed right over my head... Thanks for the correction
+
+Co-authored-by: Daniel Huber <daniel.hub@outlook.de>
+
+* Update nodecg-io-midi-input/extension/index.ts
+
+Co-authored-by: Daniel Huber <daniel.hub@outlook.de>
+
+* Fixed some potential problems.
+
+* fixed tripple equals
+
+* still a problem
+
+Co-authored-by: Daniel Huber <daniel.hub@outlook.de>
